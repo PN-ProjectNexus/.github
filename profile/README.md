@@ -97,8 +97,6 @@ L’objectif est simple : proposer des ressources propres, modernes, optimisées
 
 **Discord:** https://discord.gg/PYBEFEHbZa
 
-<iframe src="https://discordapp.com/widget?id=1419404627257856153&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 **FiveM Development & Mapping**
 
 </div>
