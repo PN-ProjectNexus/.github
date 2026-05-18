@@ -83,9 +83,9 @@ L’objectif est de produire des ressources modernes, performantes et propres.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PN-ProjectNexus&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PN-ProjectNexus&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
