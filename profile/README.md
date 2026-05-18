@@ -90,26 +90,14 @@ L’objectif est simple : proposer des ressources propres, modernes, optimisées
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PN-ProjectNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PN-ProjectNexus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-</div>
-
-> Si les stats ne s’affichent pas, c’est normal : `github-readme-stats` marche mieux avec un **compte utilisateur** qu’avec une **organisation GitHub**.  
-> Dans ce cas, remplace `PN-ProjectNexus` par ton pseudo GitHub personnel.
-
----
 
 ## Contact
 
 <div align="center">
 
-**Discord:** `project_nexus`
+**Discord:** https://discord.gg/PYBEFEHbZa
+
+<iframe src="https://discordapp.com/widget?id=1419404627257856153&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 **FiveM Development & Mapping**
 
